@@ -16,5 +16,4 @@
 | 08 | 2026-04-08 |  | 김종현 | [link]() |
 | 09 | 2026-04-29 |  | 김학재 | [link]() |
 | 10 | 2026-04-29 | 푸시 알림과 FCM | 박연종 | [link](./04월/푸시%20알림과%20FCM.pdf) |
-| 11 | 2026-05-06 | Chrome PW App-bound En/Decryption | 박세원 | [link](./04월/푸시%20알림과%20FCM.pdf) |
-
+| 11 | 2026-05-06 | Chrome PW App-bound En/Decryption | 박세원 | [link](./05월/15_Chrome_PW_En_Decryption.pptx) |
