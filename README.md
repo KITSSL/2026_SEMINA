@@ -19,6 +19,6 @@
 | 11 | 2026-05-06 | Chrome PW App-bound En/Decryption | 박세원 | [link](./05월/15_Chrome_PW_En_Decryption.pptx) |
 | 12 | 2026-05-13 | QPU 사용하기 | 권나현 | [link](./05월/SSL_20260513_QPU%20사용하기.pdf) |
 | 13 | 2026-05-13 | qwen 3.5 구조(2) | 김종현 | [link](./05월/qwen%203.5%20구조(2).pptx) |
-| 14 | 2026-05-20 | 소켓프로그래밍 (2) | 김학재 | [link]() |
+| 14 | 2026-05-20 | 소켓프로그래밍 (2) | 김학재 | [link](./05월/소켓프로그래밍2.pdf) |
 | 15 | 2026-05-20 | 옵저버 패턴 | 박연종 | [link](./05월/Observer%20Pattern.pdf) |
 | 16 | 2026-05-27 | COM Practice | 박세원 | [link](./05월/16_COM_Example.pptx) |
