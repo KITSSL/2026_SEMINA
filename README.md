@@ -26,3 +26,6 @@
 | 18 | 2026-06-10 | QAOA | 권나현 | [link](./06월/SSL_20260610_QAOA.pdf) |
 | 19 | 2026-06-30 | 프로그래머를 위한 범주론 | 김학재 | [link](./06월/Category%20Theory.pdf) |
 | 20 | 2026-07-07 | QAOA(2) | 권나현 | [link](./07월/SSL_20260707_QAOA(2).pdf) |
+| 21 | 2026-07-14 | COM out-of-proc | 박세원 | [link](./07월/COM_Out-of-proc.pdf) |
+https://github.com/KITSSL/2026_SEMINA/blob/main/07%EC%9B%94/20260714%20%7C%20COM%20Out-of-proc%20%7C%20%EB%B0%95%EC%84%B8%EC%9B%90
+
