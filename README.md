@@ -29,4 +29,4 @@
 | 21 | 2026-07-14 | COM out-of-proc | 박세원 | [link](./07월/17_COM_OutofProc.pdf) |
 | 22 | 2026-07-21 | 프로그래머를 위한 범주론 (2) | 김학재 | [link](./07월/Category%20Theory%202.pdf) |
 | 22 | 2026-07-21 |  | 김담희 | [link]() |
-| 23 | 2026-07-28 | Chrome Login Data Decryption | 박세원 | [link](./07월/Chrome_Login_Data_Decryption.pptx) |
+| 23 | 2026-07-28 | Chrome Login Data Decryption | 박세원 | [link](./07월/18_Chrome_Login_Data_Decryption.pptx) |
