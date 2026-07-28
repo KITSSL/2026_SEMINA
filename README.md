@@ -27,6 +27,9 @@
 | 19 | 2026-06-30 | 프로그래머를 위한 범주론 | 김학재 | [link](./06월/Category%20Theory.pdf) |
 | 20 | 2026-07-07 | QAOA(2) | 권나현 | [link](./07월/SSL_20260707_QAOA(2).pdf) |
 | 21 | 2026-07-14 | COM out-of-proc | 박세원 | [link](./07월/17_COM_OutofProc.pdf) |
-| 22 | 2026-07-21 | 프로그래머를 위한 범주론 (2) | 김학재 | [link](./07월/Category%20Theory%202.pdf) |
-| 22 | 2026-07-21 |  | 김담희 | [link]() |
-| 23 | 2026-07-28 | Chrome Login Data Decryption | 박세원 | [link](./07월/18_Chrome_Login_Data_Decryption.pptx) |
+| 22 | 2026-07-14 | AI에게 주식 시켜보기 | 김종현 | [link](./07월/ai에게%20주식%20시켜보기.pptx) |
+| 23 | 2026-07-21 | 프로그래머를 위한 범주론 (2) | 김학재 | [link](./07월/Category%20Theory%202.pdf) |
+| 24 | 2026-07-21 |  | 김담희 | [link]() |
+| 25 | 2026-07-28 | Chrome Login Data Decryption | 박세원 | [link](./07월/18_Chrome_Login_Data_Decryption.pptx) |
+| 26 | 2026-07-28 | AI에게 주식 시켜보기2 | 김종현 | [link](./07월/ai에게%20주식%20시켜보기(2).pptx) |
+| 27 | 2026-07-28 |  | 권나현 | [link]() |
