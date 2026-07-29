@@ -32,4 +32,4 @@
 | 24 | 2026-07-21 |  | 김담희 | [link]() |
 | 25 | 2026-07-28 | Chrome Login Data Decryption | 박세원 | [link](./07월/18_Chrome_Login_Data_Decryption.pptx) |
 | 26 | 2026-07-28 | AI에게 주식 시켜보기2 | 김종현 | [link](./07월/ai에게%20주식%20시켜보기(2).pptx) |
-| 27 | 2026-07-28 |  | 권나현 | [link]() |
+| 27 | 2026-07-28 | IBMvsIONQ | 권나현 | [link](./07월/SSL_20260728_IBMvsIONQ.pdf) |
