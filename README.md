@@ -33,5 +33,5 @@
 | 25 | 2026-07-28 | Chrome Login Data Decryption | 박세원 | [link](./07월/18_Chrome_Login_Data_Decryption.pptx) |
 | 26 | 2026-07-28 | AI에게 주식 시켜보기2 | 김종현 | [link](./07월/ai에게%20주식%20시켜보기(2).pptx) |
 | 27 | 2026-07-28 | IBMvsIONQ | 권나현 | [link](./07월/SSL_20260728_IBMvsIONQ.pdf) |
-| 28 | 2026-08-11 |  | 김학재 | [link]() |
+| 28 | 2026-08-11 | 소켓프로그래밍 (3) | 김학재 | [link](./08월/소켓프로그래밍3.pdf) |
 | 29 | 2026-08-11 |  | 김담희 | [link]() |
